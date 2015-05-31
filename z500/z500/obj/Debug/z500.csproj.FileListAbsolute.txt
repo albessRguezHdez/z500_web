@@ -1,0 +1,4 @@
+c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\bin\z500.dll
+c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\bin\z500.pdb
+c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\obj\Debug\z500.dll
+c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\obj\Debug\z500.pdb
