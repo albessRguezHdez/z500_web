@@ -2,3 +2,7 @@ c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\bin\z500.dll
 c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\bin\z500.pdb
 c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\obj\Debug\z500.dll
 c:\users\jesus\documents\visual studio 2010\Projects\z500\z500\obj\Debug\z500.pdb
+C:\Users\jesus\Desktop\z500_web\z500_web\z500\z500\bin\z500.dll
+C:\Users\jesus\Desktop\z500_web\z500_web\z500\z500\bin\z500.pdb
+C:\Users\jesus\Desktop\z500_web\z500_web\z500\z500\obj\Debug\z500.dll
+C:\Users\jesus\Desktop\z500_web\z500_web\z500\z500\obj\Debug\z500.pdb

@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
+    <title>z500</title>
     <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
@@ -30,7 +30,7 @@
                 </asp:LoginView>-->
             </div>
             <div class="clear hideSkiplink">
-                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                <!--<asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
                         <asp:MenuItem NavigateUrl="~/web_z500.aspx" Text="Página principal"/>
                         <asp:MenuItem NavigateUrl="~/z500_Escaneo_Red.aspx" Text="Escaneo de red"/>
@@ -38,7 +38,7 @@
                         <asp:MenuItem NavigateUrl="~/z500_Descubrir_Servicios.aspx" Text="Descubrir servicios"/>
                         <asp:MenuItem NavigateUrl="~/z500_Activar_Proxy.aspx" Text="Activar proxy"/>
                     </Items>
-                </asp:Menu>
+                </asp:Menu>-->
             </div>
         </div>
         <div class="main">
@@ -48,7 +48,7 @@
         </div>
     </div>
     <div class="footer">
-        
+        <p>Sitio web elaborado por estudiantes de la Universidad Veracruzana en la Licenciatura en Informática</p>
     </div>
     </form>
 </body>
